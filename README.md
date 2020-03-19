@@ -23,7 +23,7 @@ To begin, create a new workgroup; or, choose a workgroup and press the 'Select' 
 
 ![Workgroup](images/4_workgroup_2.png)
 
-To create a new workgroup, type a new workgroup name into the selection field and press 'Configure'
+To create a new workgroup, type a new workgroup name into the selection field and press 'Configure'.
 
 ![Workgroup](images/4_workgroup_3.png)
 
@@ -45,7 +45,7 @@ You can add any number of values to an annotation category.  Users can either se
 
 ![Workgroup](images/4_workgroup_7.png)
 
-After selecting or creating your workgroup, SVAnnotator will return to the ready screen (first image, above).  However, the ready message has changed and new menu options are now available:
+After selecting or creating your workgroup, SVAnnotator will return to the ready screen.  However, the ready message has changed and new menu options are now available:
 
 ![Menu2](images/5_menu_connected.png)
 
