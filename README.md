@@ -1,6 +1,4 @@
-## Getting Started  
-
-### Welcome to SVAnnotator!  
+## Getting Started with SVCloud Image Annotator (SVCA)  
 
 ![First Screen](images/1_Intro.png)
 
@@ -45,13 +43,26 @@ You can add any number of values to an annotation category.  Users can either se
 
 ![Workgroup](images/4_workgroup_7.png)
 
-After selecting or creating your workgroup, SVAnnotator will return to the ready screen.  However, the ready message has changed and new menu options are now available:
+After selecting or creating your workgroup, SVCA will return to the ready screen.  However, the ready message has changed and new menu options are now available:
 
 ![Menu2](images/5_menu_connected.png)
 
 ### Support or Contact
 
-Having trouble with SVAnnotator?  Please contact us at help@genvisis.org for assistance.  If possible, please attach the most recent log file to your email.  
+Having trouble with SVCA?  Please contact us at help@genvisis.org for assistance.  
+If possible, please attach the most recent log file to your email.  
 
 Logs are located:
- - on Windows computers at %LocalAppData%/sv-image-annotator/app/logs/
+ - on Windows computers at `%LocalAppData%/sv-image-annotator/app/logs/`  
+    (this location can be changed in the `File` menu)
+    
+### Changelog
+
+#### v2.6.0
+ - Add icon to all windows
+ - Add sample/sv delete
+ - Add hide by annotation menu
+ - Update menu labels and structure
+ - Update delete dialog message
+ 
+ 
