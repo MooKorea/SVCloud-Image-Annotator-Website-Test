@@ -58,7 +58,7 @@ Logs are located:
     
 ### Changelog
 
-#### v2.6.0
+#### v2.6.0   (06/05/2020)  
  - Add icon to all windows
  - Add sample/sv delete
  - Add hide by annotation menu
